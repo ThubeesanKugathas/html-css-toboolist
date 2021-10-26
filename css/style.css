@@ -78,6 +78,13 @@ img {
     display: inline-block;
 }
 
+.titoletto {
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 45px;
+    padding-top: 35px;
+}
+
 main {
     width: 1200px;
     height: 2000px;
@@ -92,10 +99,7 @@ main {
 
 .lists {
     list-style-type: none;
-    font-weight: bold;
-    font-size: 17px;
-    margin-left: 45px;
-    padding-top: 35px;
+    
 }
 
 .lists-texts{
