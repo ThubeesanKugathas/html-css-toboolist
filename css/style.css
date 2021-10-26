@@ -33,6 +33,46 @@ img {
 
 /* main */
 
+/* add  */
+
+.add-container {
+    height: 30px;
+    background-color: white;
+    margin: 30px 150px 5px 150px;
+}
+
+.a-task {
+    height: 20px;
+    width: 60px;
+    color: white;
+    background-color: #47adf1;
+    border-radius: 5px;
+    font-size: 10px;
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+
+.a-section {
+    height: 20px;
+    width: 70px;
+    color: #d8dcdf;
+    border: #d8dcdf;
+    border: 1px #d8dcdf solid;
+    border-radius: 5px;
+    font-size: 10px;
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 5px;
+}
+
+/* liste  */
+
 .freccia{
     font-size: 10px;
     display: inline-block;
@@ -41,12 +81,6 @@ img {
 main {
     width: 1200px;
     height: 2000px;
-}
-
-.add-container {
-    height: 30px;
-    background-color: white;
-    margin: 30px 150px 10px 150px;
 }
 
 .list-container {
@@ -174,3 +208,6 @@ main {
     border: 1.5px #ef736b solid;
     border-radius: 50%;
 }
+/* /liste  */
+
+/* /main */
