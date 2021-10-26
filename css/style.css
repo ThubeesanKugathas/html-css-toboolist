@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8f9;
+}
+
+/* Header */
+
+header {
+    width: 1200px;
+    height: auto;
+    background-color: white;
+}
+
+h1 {
+    display: inline-block;
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* main */
+
+main {
+    width: 1200px;
+    height: 2000px;
+}
+
+.add-container {
+    height: 30px;
+    background-color: white;
+    margin: 30px 150px 10px 150px;
+}
+
+.list-container {
+    height: 1000px;
+    background-color: white;
+    margin: 0px 150px 20px 150px;
+}
